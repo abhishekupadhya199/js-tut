@@ -1,0 +1,17 @@
+// let name = "Abhishek Upadhyay";
+// console.log(name.length);
+// console.log(typeof("name"));
+// let first_Name = "Abhishek";
+// let last_Name  = "upadhyay";
+// let first_Name = input("enter a string");
+// let first_Number = int(input("enter a number"));
+// let total = first_Name + first_Number;
+// console.log("total");
+let inputString1 = "Hello";
+let inputString2 = "world";
+let fullString = inputString1 + inputString2;
+console.log(fullString);
+// let myNumber = 5;
+// let myString = "count:" ;
+// result = myString + "  " + myNumber;
+// console.log(result);

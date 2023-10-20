@@ -1,0 +1,20 @@
+// let inputString1 = "Abhishek";
+// let inputString2 = "kumar";
+// let inputString3 = "upadhyay";
+// let fullName = inputString1 + "  " + inputString2 + "  " + inputString3;
+// console.log(fullName);
+// let myString = "Abhishek kumar";
+// console.log(myString[myString.length-1]);
+// console.log(myString.indexOf("r"));
+// let name = "Abhishek Upadhyay";
+// console.log(name[name.length -1]);
+let firstName = "  hello world   ";
+console.log(firstName.length);
+let str = firstName.trim();
+let ptr = firstName.slice(0,8);
+// console.log(firstName);
+// console.log(firstName.toUpperCase());
+// console.log(firstName.toLowerCase());
+console.log(str.length);
+console.log(ptr);
+
